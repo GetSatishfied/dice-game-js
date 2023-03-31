@@ -1,0 +1,38 @@
+@font-face {
+    font-family: PixelFont;
+    src: url('fonts/PublicPixel.ttf');
+}
+
+body{
+    background-color: #FFF89A;
+    font-family: 'PixelFont', monospace;
+    line-height: 2;
+}
+
+.container{
+    width: 70%;
+    text-align: center;
+    margin: auto;
+}
+
+.dice{
+    display: inline-block;
+    text-align: center;
+    margin: 0 50px 0 50px;
+}
+
+h1{
+    margin: 30px;
+    color: #1A5F7A;
+    font-size: 6rem;
+}
+
+p{
+    font-size: 2rem;
+    color: #086E7D;
+}
+
+img{
+    width: 80%;
+}
+
